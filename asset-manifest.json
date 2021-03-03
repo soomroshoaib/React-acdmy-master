@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-acdmy-master/static/css/main.02157e7f.chunk.css",
+    "main.js": "/React-acdmy-master/static/js/main.79e74f8d.chunk.js",
+    "main.js.map": "/React-acdmy-master/static/js/main.79e74f8d.chunk.js.map",
+    "runtime-main.js": "/React-acdmy-master/static/js/runtime-main.1249308f.js",
+    "runtime-main.js.map": "/React-acdmy-master/static/js/runtime-main.1249308f.js.map",
+    "static/js/2.cf56782a.chunk.js": "/React-acdmy-master/static/js/2.cf56782a.chunk.js",
+    "static/js/2.cf56782a.chunk.js.map": "/React-acdmy-master/static/js/2.cf56782a.chunk.js.map",
+    "index.html": "/React-acdmy-master/index.html",
+    "precache-manifest.dc64db9b23abd2f2c94f2d12998fbc9d.js": "/React-acdmy-master/precache-manifest.dc64db9b23abd2f2c94f2d12998fbc9d.js",
+    "service-worker.js": "/React-acdmy-master/service-worker.js",
+    "static/css/main.02157e7f.chunk.css.map": "/React-acdmy-master/static/css/main.02157e7f.chunk.css.map",
+    "static/js/2.cf56782a.chunk.js.LICENSE.txt": "/React-acdmy-master/static/js/2.cf56782a.chunk.js.LICENSE.txt",
+    "static/media/cake.png": "/React-acdmy-master/static/media/cake.662725ae.png",
+    "static/media/course-2.jpg": "/React-acdmy-master/static/media/course-2.cd02f446.jpg",
+    "static/media/uifont.css": "/React-acdmy-master/static/media/icomoon.43d9f708.ttf",
+    "static/media/logo-coral.svg": "/React-acdmy-master/static/media/logo-coral.575dac4d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1249308f.js",
+    "static/js/2.cf56782a.chunk.js",
+    "static/css/main.02157e7f.chunk.css",
+    "static/js/main.79e74f8d.chunk.js"
+  ]
+}
